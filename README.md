@@ -1,2 +1,3 @@
 # hello-world
-getting started
+
+I am a current student at the University of Pittsburgh
